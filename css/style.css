@@ -568,9 +568,9 @@ body.offcanvas {
     background: #2fa499; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
-    width: 20px;
-    height: 20px;
-    margin-left: 10px; }
+    width: 40px;
+    height: 40px;
+    margin-left: 5px; }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
