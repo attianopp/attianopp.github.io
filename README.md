@@ -1,2 +1,2 @@
 # attianopp.github.io
- Personal website. Template based on https://github.com/PatriciaXiao/www
+ Personal website. Source credit: https://github.com/PatriciaXiao/www
